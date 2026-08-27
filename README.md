@@ -11,4 +11,5 @@ My accepted LeetCode solutions, synced automatically by [`sync_leetcode.py`](syn
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | [longest-common-prefix.py](array/longest-common-prefix.py) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Array, Two Pointers, Sorting | [3sum.py](array/3sum.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | String, Stack, Bracket Sequences | [valid-parentheses.py](string/valid-parentheses.py) |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array, Two Pointers | [remove-element.py](array/remove-element.py) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | [merge-sorted-array.py](array/merge-sorted-array.py) |
