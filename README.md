@@ -13,4 +13,6 @@ My accepted LeetCode solutions, synced automatically by [`sync_leetcode.py`](syn
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | String, Stack, Bracket Sequences | [valid-parentheses.py](string/valid-parentheses.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Array, Two Pointers | [remove-duplicates-from-sorted-array.py](array/remove-duplicates-from-sorted-array.py) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array, Two Pointers | [remove-element.py](array/remove-element.py) |
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | Array, Two Pointers | [remove-duplicates-from-sorted-array-ii.py](array/remove-duplicates-from-sorted-array-ii.py) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | [merge-sorted-array.py](array/merge-sorted-array.py) |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | [majority-element.py](array/majority-element.py) |
