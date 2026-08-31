@@ -19,4 +19,6 @@ My accepted LeetCode solutions, synced automatically by [`sync_leetcode.py`](syn
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | [best-time-to-buy-and-sell-stock.py](array/best-time-to-buy-and-sell-stock.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | [majority-element.py](array/majority-element.py) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | Array, Math, Two Pointers | [rotate-array.py](array/rotate-array.py) |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Array, Prefix Sum | [product-of-array-except-self.py](array/product-of-array-except-self.py) |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | Array, Sorting, Counting Sort | [h-index.py](array/h-index.py) |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | Array, Hash Table, Math, Design, Randomized | [insert-delete-getrandom-o1.py](array/insert-delete-getrandom-o1.py) |
