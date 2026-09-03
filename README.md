@@ -8,6 +8,7 @@ My accepted LeetCode solutions, synced automatically by [`sync_leetcode.py`](syn
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math, Recursion | [add-two-numbers.py](linked-list/add-two-numbers.py) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | [longest-substring-without-repeating-characters.py](hash-table/longest-substring-without-repeating-characters.py) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | [palindrome-number.py](math/palindrome-number.py) |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Array, Two Pointers, Greedy | [container-with-most-water.py](array/container-with-most-water.py) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | Hash Table, Math, String | [integer-to-roman.py](hash-table/integer-to-roman.py) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | Hash Table, Math, String | [roman-to-integer.py](hash-table/roman-to-integer.py) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | [longest-common-prefix.py](array/longest-common-prefix.py) |
@@ -27,7 +28,9 @@ My accepted LeetCode solutions, synced automatically by [`sync_leetcode.py`](syn
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Array, Two Pointers, Binary Search | [two-sum-ii-input-array-is-sorted.py](array/two-sum-ii-input-array-is-sorted.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | [majority-element.py](array/majority-element.py) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | Array, Math, Two Pointers | [rotate-array.py](array/rotate-array.py) |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Hash Table, String | [isomorphic-strings.py](hash-table/isomorphic-strings.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Array, Prefix Sum | [product-of-array-except-self.py](array/product-of-array-except-self.py) |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | Array, Sorting, Counting Sort | [h-index.py](array/h-index.py) |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | Array, Hash Table, Math, Design, Randomized | [insert-delete-getrandom-o1.py](array/insert-delete-getrandom-o1.py) |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Hash Table, String, Counting | [ransom-note.py](hash-table/ransom-note.py) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Two Pointers, String, Dynamic Programming | [is-subsequence.py](two-pointers/is-subsequence.py) |
