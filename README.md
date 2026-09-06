@@ -14,18 +14,23 @@ My accepted LeetCode solutions, synced automatically by [`sync_leetcode.py`](syn
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | [longest-common-prefix.py](array/longest-common-prefix.py) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Array, Two Pointers, Sorting | [3sum.py](array/3sum.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | String, Stack, Bracket Sequences | [valid-parentheses.py](string/valid-parentheses.py) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List, Recursion | [merge-two-sorted-lists.py](linked-list/merge-two-sorted-lists.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Array, Two Pointers | [remove-duplicates-from-sorted-array.py](array/remove-duplicates-from-sorted-array.py) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array, Two Pointers | [remove-element.py](array/remove-element.py) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm | [find-the-index-of-the-first-occurrence-in-a-string.py](two-pointers/find-the-index-of-the-first-occurrence-in-a-string.py) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array, Hash Table, String, Sorting | [group-anagrams.py](array/group-anagrams.py) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Array, Dynamic Programming, Greedy | [jump-game.py](array/jump-game.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | String | [length-of-last-word.py](string/length-of-last-word.py) |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | String, Stack | [simplify-path.py](string/simplify-path.py) |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | Array, Two Pointers | [remove-duplicates-from-sorted-array-ii.py](array/remove-duplicates-from-sorted-array-ii.py) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | [merge-sorted-array.py](array/merge-sorted-array.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | [best-time-to-buy-and-sell-stock.py](array/best-time-to-buy-and-sell-stock.py) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers, String | [valid-palindrome.py](two-pointers/valid-palindrome.py) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | [longest-consecutive-sequence.py](array/longest-consecutive-sequence.py) |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | Hard | Array, Greedy | [candy.py](array/candy.py) |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | Hash Table, Linked List | [copy-list-with-random-pointer.py](hash-table/copy-list-with-random-pointer.py) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | [linked-list-cycle.py](hash-table/linked-list-cycle.py) |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Array, Math, Stack | [evaluate-reverse-polish-notation.py](array/evaluate-reverse-polish-notation.py) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Two Pointers, String | [reverse-words-in-a-string.py](two-pointers/reverse-words-in-a-string.py) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | Stack, Design | [min-stack.py](stack/min-stack.py) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Array, Two Pointers, Binary Search | [two-sum-ii-input-array-is-sorted.py](array/two-sum-ii-input-array-is-sorted.py) |
